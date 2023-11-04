@@ -1,0 +1,6 @@
+[submodule "henri"]
+	path = henri
+	url = ./henri
+[submodule "francois"]
+	path = francois
+	url = ./francois
