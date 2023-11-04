@@ -1,6 +1,6 @@
 [submodule "henri"]
 	path = henri
-	url = ./henri
+	url = https://github.com/Ttanesque/Henri
 [submodule "francois"]
 	path = francois
-	url = ./francois
+	url = https://github.com/Ttanesque/Francois
